@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXuPsZQ7Uh0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bohdan\\source\\repos\\Bot\\Bot\\Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bohdan\\.nuget\\packages\\awssdk.core\\3.7.304.10\\awssdk.core.3.7.304.10.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.303.16\\awssdk.dynamodbv2.3.7.303.16.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\telegram.botapi\\7.4.0\\telegram.botapi.7.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
